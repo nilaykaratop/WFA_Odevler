@@ -1,0 +1,9 @@
+C:\Users\nilay\source\repos\odevkaraktersayısı\odevkaraktersayısı\obj\Debug\odevkaraktersayısı.csprojAssemblyReference.cache
+C:\Users\nilay\source\repos\odevkaraktersayısı\odevkaraktersayısı\obj\Debug\odevkaraktersayısı.Form1.resources
+C:\Users\nilay\source\repos\odevkaraktersayısı\odevkaraktersayısı\obj\Debug\odevkaraktersayısı.Properties.Resources.resources
+C:\Users\nilay\source\repos\odevkaraktersayısı\odevkaraktersayısı\obj\Debug\odevkaraktersayısı.csproj.GenerateResource.cache
+C:\Users\nilay\source\repos\odevkaraktersayısı\odevkaraktersayısı\bin\Debug\odevkaraktersayısı.exe.config
+C:\Users\nilay\source\repos\odevkaraktersayısı\odevkaraktersayısı\bin\Debug\odevkaraktersayısı.exe
+C:\Users\nilay\source\repos\odevkaraktersayısı\odevkaraktersayısı\bin\Debug\odevkaraktersayısı.pdb
+C:\Users\nilay\source\repos\odevkaraktersayısı\odevkaraktersayısı\obj\Debug\odevkaraktersayısı.exe
+C:\Users\nilay\source\repos\odevkaraktersayısı\odevkaraktersayısı\obj\Debug\odevkaraktersayısı.pdb

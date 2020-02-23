@@ -1,0 +1,9 @@
+C:\Users\nilay\source\repos\WFA_MouseRenk\WFA_MouseRenk\bin\Debug\WFA_MouseRenk.exe.config
+C:\Users\nilay\source\repos\WFA_MouseRenk\WFA_MouseRenk\bin\Debug\WFA_MouseRenk.exe
+C:\Users\nilay\source\repos\WFA_MouseRenk\WFA_MouseRenk\bin\Debug\WFA_MouseRenk.pdb
+C:\Users\nilay\source\repos\WFA_MouseRenk\WFA_MouseRenk\obj\Debug\WFA_MouseRenk.csprojAssemblyReference.cache
+C:\Users\nilay\source\repos\WFA_MouseRenk\WFA_MouseRenk\obj\Debug\WFA_MouseRenk.Form1.resources
+C:\Users\nilay\source\repos\WFA_MouseRenk\WFA_MouseRenk\obj\Debug\WFA_MouseRenk.Properties.Resources.resources
+C:\Users\nilay\source\repos\WFA_MouseRenk\WFA_MouseRenk\obj\Debug\WFA_MouseRenk.csproj.GenerateResource.cache
+C:\Users\nilay\source\repos\WFA_MouseRenk\WFA_MouseRenk\obj\Debug\WFA_MouseRenk.exe
+C:\Users\nilay\source\repos\WFA_MouseRenk\WFA_MouseRenk\obj\Debug\WFA_MouseRenk.pdb

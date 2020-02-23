@@ -1,0 +1,11 @@
+C:\Users\nilay\source\repos\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.csprojAssemblyReference.cache
+C:\Users\nilay\source\repos\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.AssemblyInfoInputs.cache
+C:\Users\nilay\source\repos\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.AssemblyInfo.cs
+C:\Users\nilay\source\repos\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.exe
+C:\Users\nilay\source\repos\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.deps.json
+C:\Users\nilay\source\repos\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.runtimeconfig.json
+C:\Users\nilay\source\repos\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.runtimeconfig.dev.json
+C:\Users\nilay\source\repos\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.dll
+C:\Users\nilay\source\repos\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.pdb
+C:\Users\nilay\source\repos\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.dll
+C:\Users\nilay\source\repos\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.pdb

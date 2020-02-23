@@ -1,0 +1,9 @@
+C:\Users\nilay\source\repos\WFA_OdevIfElse\WFA_OdevIfElse\obj\Debug\WFA_OdevIfElse.csprojAssemblyReference.cache
+C:\Users\nilay\source\repos\WFA_OdevIfElse\WFA_OdevIfElse\obj\Debug\WFA_OdevIfElse.Form1.resources
+C:\Users\nilay\source\repos\WFA_OdevIfElse\WFA_OdevIfElse\obj\Debug\WFA_OdevIfElse.Properties.Resources.resources
+C:\Users\nilay\source\repos\WFA_OdevIfElse\WFA_OdevIfElse\obj\Debug\WFA_OdevIfElse.csproj.GenerateResource.cache
+C:\Users\nilay\source\repos\WFA_OdevIfElse\WFA_OdevIfElse\bin\Debug\WFA_OdevIfElse.exe.config
+C:\Users\nilay\source\repos\WFA_OdevIfElse\WFA_OdevIfElse\bin\Debug\WFA_OdevIfElse.exe
+C:\Users\nilay\source\repos\WFA_OdevIfElse\WFA_OdevIfElse\bin\Debug\WFA_OdevIfElse.pdb
+C:\Users\nilay\source\repos\WFA_OdevIfElse\WFA_OdevIfElse\obj\Debug\WFA_OdevIfElse.exe
+C:\Users\nilay\source\repos\WFA_OdevIfElse\WFA_OdevIfElse\obj\Debug\WFA_OdevIfElse.pdb

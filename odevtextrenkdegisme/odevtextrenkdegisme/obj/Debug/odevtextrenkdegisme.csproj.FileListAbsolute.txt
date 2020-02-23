@@ -1,0 +1,9 @@
+C:\Users\nilay\source\repos\odevtextrenkdegisme\odevtextrenkdegisme\bin\Debug\odevtextrenkdegisme.exe.config
+C:\Users\nilay\source\repos\odevtextrenkdegisme\odevtextrenkdegisme\bin\Debug\odevtextrenkdegisme.exe
+C:\Users\nilay\source\repos\odevtextrenkdegisme\odevtextrenkdegisme\bin\Debug\odevtextrenkdegisme.pdb
+C:\Users\nilay\source\repos\odevtextrenkdegisme\odevtextrenkdegisme\obj\Debug\odevtextrenkdegisme.csprojAssemblyReference.cache
+C:\Users\nilay\source\repos\odevtextrenkdegisme\odevtextrenkdegisme\obj\Debug\odevtextrenkdegisme.Form1.resources
+C:\Users\nilay\source\repos\odevtextrenkdegisme\odevtextrenkdegisme\obj\Debug\odevtextrenkdegisme.Properties.Resources.resources
+C:\Users\nilay\source\repos\odevtextrenkdegisme\odevtextrenkdegisme\obj\Debug\odevtextrenkdegisme.csproj.GenerateResource.cache
+C:\Users\nilay\source\repos\odevtextrenkdegisme\odevtextrenkdegisme\obj\Debug\odevtextrenkdegisme.exe
+C:\Users\nilay\source\repos\odevtextrenkdegisme\odevtextrenkdegisme\obj\Debug\odevtextrenkdegisme.pdb
